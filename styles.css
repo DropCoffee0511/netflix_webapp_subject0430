@@ -239,7 +239,7 @@ body {
     padding: 70px 4% 20px;
     color: var(--text-gray);
     max-width: 1000px;
-    margin: 0 auto;
+    margin-left: 0; /* 좌측 정렬로 변경 */
 }
 
 .footer-links {
